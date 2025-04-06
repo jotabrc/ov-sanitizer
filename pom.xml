@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>io.github.jotabrc</groupId>
 	<artifactId>ov-sanitizer</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>ov-sanitizer</name>
 	<description>Sanitizer</description>
 	<url>https://github.com/jotabrc/ov-sanitizer</url>
