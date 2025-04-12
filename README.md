@@ -1,5 +1,5 @@
 # Sanitizer
-String sanitize and url encoder.
+String sanitizer and URL encoder.
 
 ### Usage
-Uses `Sanitizer` interface to sanitize `sanitizer.sanitize(String input)` or `sanitizer.encode(String input)`.
+Uses `Sanitizer` interface for common String's `Sanitizer.sanitize(String input)` or URL's `sanitizer.encode(String input)`.
